@@ -4,7 +4,7 @@
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon",
-     "ember-cli-deploy-plugin"
+     "ember-cli-deploy-plugin-pack"
   ],
   "repository": "",
   "license": "MIT",
