@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-deploy-azure'
+  name: 'ember-cli-deploy-azure'
 };
