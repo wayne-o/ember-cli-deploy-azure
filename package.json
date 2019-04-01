@@ -20,7 +20,9 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "ember-deploy-azure-blob": "git+https://github.com/wayne-o/ember-deploy-azure-blob.git",
+    "ember-deploy-azure-tables": "git+https://github.com/wayne-o/ember-deploy-azure-tables.git"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.7.0",
