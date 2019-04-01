@@ -25,8 +25,8 @@
     "ember-cli-deploy-revision-data": "^1.0.0",
     "ember-cli-babel": "^6.6.0",
     "ember-cli-deploy-display-revisions": "^1.0.1",
-    "ember-deploy-azure-blob": "git+https://github.com/wayne-o/ember-cli-deploy-azure-blob.git",
-    "ember-deploy-azure-tables": "git+https://github.com/wayne-o/ember-cli-deploy-azure-tables.git"
+    "ember-cli-deploy-azure-blob": "git+https://github.com/wayne-o/ember-cli-deploy-azure-blob.git",
+    "ember-cli-deploy-azure-tables": "git+https://github.com/wayne-o/ember-cli-deploy-azure-tables.git"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.7.0",
